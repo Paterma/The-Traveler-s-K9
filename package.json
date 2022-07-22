@@ -8,10 +8,14 @@
     "export": "next export"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0",
     "cypress": "^10.0.3",
     "next": "^12.1.5",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-bootstrap": "^2.4.0",
+    "react-dom": "^18.0.0",
+    "react-icons": "^4.4.0",
+    "react-responsive-carousel": "^3.2.23"
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.12.2"

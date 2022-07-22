@@ -1,0 +1,50 @@
+.navbar{
+    padding: 20px;
+    color: black;
+    }
+    
+    button {
+    border-radius: 15px;
+    background-color: #E2FCEF;
+    color: black !important;
+    font-weight: bold;
+    width: 100px;
+    margin-left: 20px;
+    height: 50px;
+    width: 150px;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: small !important;
+    } 
+    
+#contactMe {
+    color: black !important;
+}
+
+    .navbar-brand{
+        font-family: 'Roboto', sans-serif;
+        color: black;  
+    }
+    
+    li {
+        color: black;
+        padding: 3px;
+        font-weight: bold !important;
+        align-items: center !important;
+    }
+    button:hover {
+        background-color: #DD614A;
+    }
+    Changing the link colors to stand out more
+    nav a:active {
+        color: rgb(226, 5, 5);
+    }
+    /* Change the link colors once visited */
+    button:visited {
+        color: rgb(180, 166, 202) !important;
+    }
+    
+    
+    #profile:hover {
+      transform: none;
+    }

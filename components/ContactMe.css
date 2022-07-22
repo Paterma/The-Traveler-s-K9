@@ -1,0 +1,19 @@
+#contactMe {
+    color: white !important;
+}
+
+li {
+    color: white !important;
+    text-align: center !important;
+    align-items: center !important;
+    list-style: none;
+    margin-right: 15px;
+}
+
+Card {
+    justify-content: center !important;
+    align-items: center !important;
+    margin-left: auto !important;
+margin-right: auto !important;
+display: flex !important;
+}
