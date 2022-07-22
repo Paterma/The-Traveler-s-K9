@@ -1,9 +1,9 @@
 import React from "react";
 import '@components/AboutMe.css';
-import Chloe from '../../styles/chloepic.jpg';
+import Chloe from '@components/chloepic.jpg';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { Carousel } from 'react-responsive-carousel';
-import Airbus from '../../styles/photo2.PNG'
+import Airbus from '@components/photo2.PNG'
 import Card from 'react-bootstrap/Card';
 
 
@@ -45,21 +45,3 @@ return (
 }
 
 export default AboutMe;
-
-{/* <div>
-<p id="introParagraph">Welcome to The Traveler's K9! My name is Chloe Pfahl and I have been a professional dog trainer for 6 years now. </p>
-<img src={Chloe} className="img-fluid" id="chloeAndAirbus" alt="Chloe and Airbus"/>
-<div id="testimonials">
-<Carousel autoPlay="true" infiniteLoop="true" showIndicators="false" showArrows="false" transitionTime={5} centerMode="true">
-        <div>
-                    <img src={review1} />
-                </div>
-                <div>
-                    <img src={review2} />
-                </div>
-                <div>
-                    <img src={review3} />
-                </div>
-    </Carousel>
-</div>
-</div> */}

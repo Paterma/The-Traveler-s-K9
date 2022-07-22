@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import '../../styles/Navigation.css'
+import '@components/Navigation.css'
 import "bootstrap/dist/css/bootstrap.min.css";
 
 

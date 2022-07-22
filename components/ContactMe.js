@@ -1,12 +1,12 @@
 import React from "react";
-import '../../styles/ContactMe.css';
+import '@components/ContactMe.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { AiOutlineMail } from 'react-icons/ai';
 import { AiOutlinePhone } from 'react-icons/ai'
 import { BsFacebook } from 'react-icons/bs'
 import { BsInstagram } from 'react-icons/bs'
 import Card from 'react-bootstrap/Card';
-import strawberry from '../../styles/contactairbus.PNG'
+import strawberry from '@components/contactairbus.PNG'
 import ListGroup from 'react-bootstrap/ListGroup';
 
 function ContactMe() {

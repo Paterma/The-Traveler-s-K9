@@ -1,5 +1,5 @@
 import React from "react";
-import '../../styles/Services.css'
+import '@components/Services.css'
 import "bootstrap/dist/css/bootstrap.min.css";
 import Accordion from "./Accordian.js";
 

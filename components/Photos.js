@@ -1,10 +1,10 @@
 import React from "react";
-import '../../styles/Photos.css';
+import '@components/Photos.css';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { Carousel } from 'react-responsive-carousel';
-import photo1 from '../../styles/photo1.PNG'
-import photo2 from '../../styles/photo2.PNG'
-import photo3 from '../../styles/photo3.PNG'
+import photo1 from '@components/photo1.PNG'
+import photo2 from '@components/photo2.PNG'
+import photo3 from '@components/photo3.PNG'
 
 
 function Photos() {
